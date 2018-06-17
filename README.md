@@ -1,6 +1,6 @@
-#TopGear-Core-Java-Assignment002 - by Tejeswar Tripathy
+# TopGear-Core-Java-Assignment002 - by Tejeswar Tripathy
 
-Core Java Eclipse Project
+## Core Java Eclipse Project
 
 1.	Create an ArrayList of Employee( id,name,address,sal) objects and retrieve objects from ArrayList by using forEach() method of Iterable interface.
 
